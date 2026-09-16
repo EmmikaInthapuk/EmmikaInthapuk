@@ -17,4 +17,4 @@ elif score >=60:
 elif score >=50:
    print("เกรด D")
 else:
-     print("เกรด F")
+   print("เกรด F")
